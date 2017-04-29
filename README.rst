@@ -1,6 +1,8 @@
 AWS Lambda
 ==========
 
+* `fabric-aws-cloudformation <https://github.com/crossroad0201/fabric-aws-cloudformation>`_
+
 ::
 
   sbt assembly
